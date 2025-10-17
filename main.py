@@ -1,6 +1,5 @@
 # Copyright 2025 © Shinei Nouzen | https://github.com/Shineii86
 # Licensed under the MIT License
-# Professional Colab Leech Implementation
 
 # ==================== CONFIGURATION ====================
 API_ID = 0  # @param {type: "integer"}
